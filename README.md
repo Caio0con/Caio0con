@@ -25,6 +25,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="50" />
 </div>
 <br/>
-![Snake animation](https://github.com/Caio0con/Caio0con/blob/output/github-contribution-grid-snake.svg) 
+
 ![Ocon GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio0con&show_icons=true&theme=radical)
 
